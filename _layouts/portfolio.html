@@ -10,8 +10,8 @@
         <h2>Portfolio</h2>
 
         <nav aria-label="Portfolio navigation">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/about/' | relative_url }}">About me</a>
+          {{ '/' | relative_url }}Home</a>
+          {{ '/about/' | relative_url }}About me</a>
 
           <h3>Writing samples</h3>
 
@@ -21,9 +21,7 @@
           %}
 
           {% for sample in sample_pages %}
-            <a href="{{ sample.url | relative_url }}">
-              {{ sample.title }}
-            </a>
+            {{ sample.url | relative_url }}{{ sample.title }}</a>
           {% endfor %}
 
           <h3>Connect</h3>
