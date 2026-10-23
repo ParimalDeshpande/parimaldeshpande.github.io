@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="wrapper portfolio-layout">
+      <aside class="sidebar">
+        <h2>Portfolio</h2>
+
+        <nav aria-label="Portfolio navigation">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/about/' | relative_url }}">About me</a>
+
+          <h3>Writing samples</h3>
+
+          {% assign sample_pages = site.pages
+            | where: "portfolio_sample", true
+            | sort: "nav_order"
+          %}
+
+          {% for sample in sample_pages %}
+            <a href="{{ sample.url | relative_url }}">
+              {{ sample.title }}
+            </a>
+          {% endfor %}
+
+          <h3>Connect</h3>
+
+          <a href="https://www.linkedin.com/"
+             target="_blank"
+             rel="noopener noreferrer">
+            LinkedIn
+          </a>
+        </nav>
+      </aside>
+
+      <main class="main-content" aria-label="Content">
+        {{ content }}
+      </main>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>
