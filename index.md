@@ -1,7 +1,9 @@
 ---
-layout: home
-title: "Technical Writing Portfolio"
+layout: default
+title: Technical Writing Portfolio
+permalink: /about/
 ---
+
 Technical Writer | Software Documentation
 
 # I make complex software easier to understand, navigate, and use.
