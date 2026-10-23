@@ -4,6 +4,8 @@ title: About Me
 ---
 # About Me
 
-I'm a technical writer with 12+ years of experience in software technical writing, user guides, and product documentation.
+I believe good documentation should make things easier, not add another layer of complexity. As a technical writer, I enjoy taking complicated products, processes, and ideas and turning them into content that feels clear, practical, and useful.
 
-I focus on creating clear, structured, user-focused documentation.
+Here, you will find examples of my work, the projects I have contributed to, and some of the ways I approach content structure, user experience, and technical communication.
+
+Take a look around. I hope my work gives you a good sense of not only what I do, but also how I think about documentation.
