@@ -57,8 +57,6 @@ The following example illustrates the structure of an external-connection config
 }
 ```
 
-> **Note:** Do not include real credentials, certificates, tokens, or production URLs in documentation examples.
-
 ## Use the connection from customization code
 
 After the external connection information is registered, customization code can refer to the configured connection rather than embedding deployment-specific URLs or secrets in the code.
