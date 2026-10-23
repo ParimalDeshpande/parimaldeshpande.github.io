@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "Configure Outbound HTTPS Connections to External Services"
-permalink: /samples/configure-outbound-https/
+layout: portfolio
+title: Getting Started Guide
+portfolio_sample: true
+nav_order: 20
 ---
 
 # Configure Outbound HTTPS Connections to External Services
