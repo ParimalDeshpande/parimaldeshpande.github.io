@@ -1,6 +1,6 @@
 ---
-layout: homepage
-title: Technical Writer | Software Documentation
+layout: home
+title: "Technical Writing Portfolio"
 ---
 Technical Writer | Software Documentation
 
