@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Technical Writing Portfolio
+layout: portfolio
+title: Configure Outbound HTTPS
+portfolio_sample: true
+nav_order: 10
 ---
 
 Technical Writer | Software Documentation
