@@ -1,8 +1,8 @@
 ---
 layout: portfolio
-title: HTTPS Connections
+title: Configure Outbound HTTPS
 portfolio_sample: true
-nav_order: 20
+nav_order: 10
 ---
 
 # Configure Outbound HTTPS Connections to External Services
