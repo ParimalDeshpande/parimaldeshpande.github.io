@@ -12,8 +12,11 @@ I'm a technical writer with 12+ years of experience creating user guides and pro
 # What I bring
 
 • User-focused documentation: Organizing content around what users need to know and do.
+
 • Product documentation: Explaining features, workflows, and software functionality in a clear and consistent way.
+
 • Information organization: Structuring content so readers can find answers quickly.
+
 • Clarity and consistency: Using clear language, logical steps, and consistent terminology.
 
 
