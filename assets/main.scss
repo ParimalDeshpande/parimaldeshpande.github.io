@@ -16,6 +16,16 @@
   min-height: 64px;
 }
 
+.site-title {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-description {
+  font-size: 14px;
+  color: #6b7280;
+}
+
 .portfolio-layout {
   display: grid;
   grid-template-columns: 230px minmax(0, 1fr);
