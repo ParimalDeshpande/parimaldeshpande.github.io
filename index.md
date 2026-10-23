@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Configure Outbound HTTPS
+title: Parimal Deshpande
 portfolio_sample: true
 nav_order: 10
 ---
