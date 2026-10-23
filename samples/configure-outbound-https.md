@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Configure Outbound HTTPS Connections to External Services"
 permalink: /samples/configure-outbound-https/
 ---
