@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Configure Outbound HTTPS Connections to External Services
+title: "Configure Outbound HTTPS Connections to External Services"
+permalink: /samples/configure-outbound-https/
 ---
 
 # Configure Outbound HTTPS Connections to External Services
