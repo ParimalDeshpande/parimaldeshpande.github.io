@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical Writing Portfolio
-permalink: /about/
+permalink: /index/
 ---
 
 Technical Writer | Software Documentation
