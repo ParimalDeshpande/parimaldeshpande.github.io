@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Getting Started Guide
+title: HTTPS Connections
 portfolio_sample: true
 nav_order: 20
 ---
