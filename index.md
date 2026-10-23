@@ -25,4 +25,4 @@ SaaS Product | Technical Documentation
 
 A published documentation sample demonstrating my approach to presenting complex technical information in a clear, structured, and usable format.
 
-View sample →
+[View sample →](/samples/configure-outbound-https/)
