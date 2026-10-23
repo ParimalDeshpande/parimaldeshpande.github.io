@@ -1,7 +1,11 @@
 ---
 layout: default
+---
+---
+layout: page
 title: About Me
 ---
+
 # About Me
 
 I believe good documentation should make things easier, not add another layer of complexity. As a technical writer, I enjoy taking complicated products, processes, and ideas and turning them into content that feels clear, practical, and useful.
