@@ -15,9 +15,7 @@ Pune, Maharashtra, India
 
 <p class="resume-meta">Last updated: October 2026</p>
 
-<a class="resume-download"
-   href="{{ '/assets/docs/parimal-deshpande-resume.pdf' | relative_url }}"
-   download>
+{{ '/assets/docs/ParimalDeshpande_Resume.pdf' | relative_url }}
   Download resume (PDF)
 </a>
 
