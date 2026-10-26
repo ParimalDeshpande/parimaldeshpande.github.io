@@ -9,7 +9,7 @@ nav_order: 20
 # Publish Process Plans Based on Part Tags
 <p class="sample-type">Feature and integration documentation · Manufacturing and integration users</p>
 
-**Demonstrates:** Explaining complex product behavior, first-time and incremental publishing scenarios, structured output, and examples.
+<p class="sample-demonstrates"><strong>Demonstrates:</strong> Explaining complex product behavior, first-time and incremental publishing scenarios, structured output, and examples.
 
 Part tags provide a way to filter a process plan when the plan is associated with multiple parts or when the same part is used across multiple assembly branches. After a part tag is assigned, you can filter the process plan structure to display only the objects associated with the selected tag.
 
