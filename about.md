@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me
 
-I'm a Principal Technical Writer with 15+ years of experience creating documentation for enterprise software, SaaS products, mobile applications, APIs, and complex technical workflows.
+I am a Principal Technical Writer with 15+ years of experience creating documentation for enterprise software, SaaS products, mobile applications, APIs, and complex technical workflows.
 
 I focus on making software easier to understand and use. My work includes end-user and administrator documentation, conceptual and task-based content, API documentation, contextual help, microcopy, What's New content, troubleshooting information, and instructional videos.
 
