@@ -9,7 +9,7 @@ nav_order: 30
 # Create a Routing Plan Using a REST API
 <p class="sample-type">API documentation · Developers and integration specialists</p>
 
-<p class="sample-demonstrates"><strong>Demonstrates:</strong> Structuring REST API guidance with prerequisites, request examples, JSON payloads, object relationships, and verification.
+<p class="sample-demonstrates"><strong>Demonstrates:</strong> Structuring REST API guidance with prerequisites, request examples, JSON payloads, object relationships, and verification.</p>
 
 A routing plan connects a manufacturing process plan, a bill of materials, and a production facility. Use the manufacturing REST API to create one or more routing plans and associate each plan with the applicable part and process plan.
 
