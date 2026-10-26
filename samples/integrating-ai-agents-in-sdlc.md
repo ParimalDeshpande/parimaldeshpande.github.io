@@ -7,6 +7,9 @@ nav_order: 60
 ---
 
 # Integrating AI Agents into the Software Development Lifecycle
+<p class="sample-type">Technical concept and workflow documentation · Software development teams</p>
+
+**Demonstrates:** Explaining AI-assisted development workflows, agents, reusable skills, repository context, testing, governance, and human review through an end-to-end example.
 
 AI-assisted development can support more than code generation. When integrated into the software development lifecycle (SDLC), AI agents can assist with requirements analysis, design, implementation, testing, code review, documentation, deployment, and maintenance.
 
