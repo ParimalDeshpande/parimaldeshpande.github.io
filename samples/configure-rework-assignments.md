@@ -9,7 +9,7 @@ nav_order: 40
 # Configure Rework Assignments in a Workflow
 <p class="sample-type">Customization documentation · Application administrators and developers</p>
 
-**Demonstrates:** Presenting a customization scenario from problem and intended behavior through configuration, implementation logic, and validation.
+<p class="sample-demonstrates"><strong>Demonstrates:</strong> Presenting a customization scenario from problem and intended behavior through configuration, implementation logic, and validation.
 
 A standard change workflow can assign a rework task to every participant in an assignee role, even when only one participant completed the original work. Customize the workflow when rework must return only to the participant who completed the task.
 
