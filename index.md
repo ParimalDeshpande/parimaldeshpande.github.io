@@ -67,7 +67,7 @@ A conceptual documentation sample that explains manufacturing routing plans, the
 
 [View sample →](/samples/understanding-manufacturing-routing-plans.html)
 
-## Integrating AI Agents into the Software Development Lifecycle
+### Integrating AI Agents into the Software Development Lifecycle
 <p class="sample-type">Software Development · AI and Agentic Workflows</p>
 
 A conceptual and technical sample that explains how AI agents, reusable skills, repository context, development tools, and different AI models can be integrated into the software development lifecycle while maintaining human review and validation.
