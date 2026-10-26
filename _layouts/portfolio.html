@@ -20,6 +20,11 @@
             About
           </a>
 
+            <a href="{{ '/resume/' | relative_url }}"
+             {% if page.url == '/resume/' %}class="active"{% endif %}>
+            Resume
+          </a>
+
           <h3>Writing samples</h3>
 
           {% assign sample_pages = site.pages
