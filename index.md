@@ -35,7 +35,7 @@ A technical documentation sample that explains how to configure secure outbound 
 
 A feature documentation sample that explains how part tags affect process plan publishing, including first-time and incremental publishing scenarios and structured output examples.
 
-[View sample →](/samples/publish-process-plans-based-on-part-tags.html)
+[View sample →](/samples/PublishProcessPlansBasedonPartTags.html)
 
 ## Create a Routing Plan Using a REST API
 
@@ -43,7 +43,7 @@ A feature documentation sample that explains how part tags affect process plan p
 
 A developer-focused sample that explains how to create routing plans through a REST API, including prerequisites, request headers, JSON request bodies, object associations, and verification.
 
-[View sample →](/samples/create-routing-plan-rest-api.html)
+[View sample →](/samples/CreateRoutingPlanUsingRESTAPI.html)
 
 ## Configure Rework Assignments in a Workflow
 
@@ -51,10 +51,17 @@ A developer-focused sample that explains how to create routing plans through a R
 
 A customization sample that starts with a workflow problem and explains how to configure rework assignments so that tasks are routed to the appropriate participants.
 
-[View sample →](/samples/configure-rework-assignments.html)
+[View sample →](/samples/Configure%20ReworkAssignmentsWorkflow.html)
 
 ## Understanding Manufacturing
 
 A conceptual documentation sample that explains routing plans, their relationship to manufacturing information, and how they support different production scenarios.
 
-[View sample →](/samples/understanding-manufacturing-routing-plans.html)
+[View sample →](/samples/Understanding%20ManufacturingRoutingPlans.html)
+
+## Integrating AI Agents into the Software Development Lifecycle
+
+A conceptual documentation sample that explains integrating AI agents into the Software Development Lifecycle (SDLC).
+
+[View sample →](/samples/IntegratingAIAgentsinSDLC.html)
+
