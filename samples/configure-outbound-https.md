@@ -14,14 +14,14 @@ nav_order: 10
 
 Cloud applications often need to communicate with services that are hosted outside the managed application environment. To support these integrations securely, connection details should be maintained separately from customization code and configured for each deployment environment.
 
-This approach allows the same integration code to be used across development, test, and production environments while keeping environment-specific URLs, credentials, secrets, and certificates separate.
+This separation allows you to use the same integration code across development, test, and production environments while maintaining environment-specific URLs, credentials, secrets, and certificates independently.
 
 ## Before you begin
 
 Before configuring an external connection, make sure you have:
 
 - Access to the utility or configuration mechanism used to register external connections.
-- The deployment-specific location where encrypted connection information is submitted.
+- The deployment-specific configuration location or service used to submit encrypted connection information.
 - A public key or equivalent mechanism for encrypting sensitive connection information.
 - A client certificate and key chain, if the external service requires client-certificate authentication.
 - A server certificate chain, if the external service uses a certificate that is not trusted by the application's runtime by default.
@@ -50,8 +50,8 @@ The following example illustrates the structure of an external-connection config
     "inventory.service": {
       "baseurl": "https://inventory.example.com",
       "secrets": {
-        "client_id": "example-client-id",
-        "client_secret": "example-client-secret"
+        "client_id": "<client-id>",
+        "client_secret": "<client-secret>"
       },
       "url_fragments": {
         "items": "api/items",
@@ -59,7 +59,7 @@ The following example illustrates the structure of an external-connection config
       }
     }
   },
-  "encryption_key": "/path/to/public-key.txt"
+  "encryption_key": "<path-to-public-key>"
 }
 ```
 
@@ -72,7 +72,7 @@ This separation provides two advantages:
 - The same customization can be deployed to multiple environments.
 - Connection information can be updated for an individual environment without creating environment-specific versions of the integration code.
 
-## Updating connection information
+## Update connection information
 
 When an endpoint URL, certificate, or secret changes, update the deployment-specific connection configuration and submit it again using the supported configuration mechanism.
 
@@ -89,15 +89,3 @@ If configuration changes are scheduled, allow for the platform's rollout process
 The integration code can use the same logical connection name in every environment while the underlying endpoint and credentials remain environment-specific.
 
 ---
-
-## About this writing sample
-
-This portfolio sample is a generalized adaptation of published enterprise-software documentation. Product names, utility names, APIs, configuration parameters, URLs, credentials, and other implementation-specific details have been replaced or simplified for portfolio use.
-
-The sample demonstrates my approach to:
-
-- Explaining a complex integration concept before introducing configuration details.
-- Separating prerequisites, configuration, examples, and update guidance into scannable sections.
-- Presenting security-related information close to the task where it is needed.
-- Using examples to clarify environment-specific configuration without exposing real deployment information.
-- Writing technical content for administrators and developers in a task-oriented format.
