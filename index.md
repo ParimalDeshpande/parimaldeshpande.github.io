@@ -21,7 +21,7 @@ I'm a technical writer with 12+ years of experience creating user guides and pro
 
 ## Support to Allow Outbound HTTPS Calls to Public Endpoints
 
-**SaaS Product | Technical Documentation**
+SaaS Product | Technical Documentation
 
 A published documentation sample demonstrating my approach to presenting complex technical information in a clear, structured, and usable format.
 
