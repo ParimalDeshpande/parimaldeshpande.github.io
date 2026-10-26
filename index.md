@@ -12,20 +12,17 @@ I'm a technical writer with 12+ years of experience creating user guides and pro
 
 # What I bring
 
-• User-focused documentation: Organizing content around what users need to know and do.
-
-• Product documentation: Explaining features, workflows, and software functionality in a clear and consistent way.
-
-• Information organization: Structuring content so readers can find answers quickly.
-
-• Clarity and consistency: Using clear language, logical steps, and consistent terminology.
-
+- **User-focused documentation:** Organizing content around what users need to know and do.
+- **Product documentation:** Explaining features, workflows, and software functionality in a clear and consistent way.
+- **Information organization:** Structuring content so readers can find answers quickly.
+- **Clarity and consistency:** Using clear language, logical steps, and consistent terminology.
 
 # Selected writing samples
 
 ## Support to Allow Outbound HTTPS Calls to Public Endpoints
-  SaaS Product | Technical Documentation
+
+**SaaS Product | Technical Documentation**
 
 A published documentation sample demonstrating my approach to presenting complex technical information in a clear, structured, and usable format.
 
-[View sample →](/samples/configure-outbound-https/)
+[View sample →](https://parimaldeshpande.github.io/samples/configure-outbound-https.html)
