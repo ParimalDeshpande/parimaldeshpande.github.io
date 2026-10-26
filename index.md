@@ -8,7 +8,7 @@ nav_order: 10
 
 # I make complex software easier to understand, navigate, and use.
 
-I'm a technical writer with 12+ years of experience creating user guides and product documentation for software products. I focus on turning product functionality and complex workflows into clear, structured, task-oriented documentation that helps users accomplish their goals.
+I'm a technical writer with 12+ years of experience creating user guides and product documentation for software products. I focus on turning product functionality and complex workflows into clear, structured, task-oriented documentation that helps users accomplish their goals. I work across the documentation lifecycle, from understanding complex product behavior and designing content structures to creating, reviewing, and improving user-facing technical documentation.
 
 # What I bring
 
