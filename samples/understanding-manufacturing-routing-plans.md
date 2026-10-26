@@ -7,6 +7,7 @@ nav_order: 50
 ---
 
 # Understanding Manufacturing Routing Plans
+
 <p class="sample-type">Conceptual documentation · Manufacturing planners and application users</p>
 
 <p class="sample-demonstrates"><strong>Demonstrates:</strong> Explaining relationships between complex product concepts, manufacturing scenarios, configuration choices, and their practical use.</p>
@@ -17,17 +18,19 @@ A routing plan defines how a manufacturing process is applied at a specific prod
 - **Process plan:** Defines the operations used to produce it.
 - **Production facility:** Defines where the work is performed and which manufacturing resources are available.
 
-A single process plan can have multiple routing plans. This allows manufacturing planners to evaluate alternative production scenarios without creating unrelated copies of the complete process definition.
+A process plan can have multiple routing plans. This allows manufacturing planners to represent different production scenarios without creating unrelated copies of the complete process definition.
 
 ## Why routing plans are useful
 
-Manufacturing requirements can change based on production quantity, facility capacity, available equipment, or the intended production period. A routing plan captures the manufacturing configuration selected for a particular scenario.
+Manufacturing requirements can vary based on production quantity, facility capacity, available equipment, or the intended production period. A routing plan represents the manufacturing configuration selected for a particular scenario.
 
-For example, a low-volume scenario might use one workstation and a manual tool. A high-volume scenario might use a different workstation, production line, or process plan. Separate routing plans let planners represent and compare these alternatives.
+For example, a low-volume production scenario might use one workstation and a manual tool. A high-volume scenario might use a different workstation, production line, or process plan.
 
-## Information contained in a routing plan
+Using separate routing plans allows planners to represent and compare these alternatives while maintaining their relationship to the underlying manufacturing process.
 
-A routing plan identifies:
+## Information in a routing plan
+
+A routing plan can identify:
 
 - The part or product to be manufactured
 - The applicable process plan
@@ -36,11 +39,11 @@ A routing plan identifies:
 - Localized operations and manufacturing resources
 - Supporting documents and routing attributes
 
-The exact information available depends on the manufacturing model and the configuration of the production environment.
+The information available in a routing plan depends on the manufacturing model and the configuration of the production environment.
 
 ## Example production scenarios
 
-Assume that a company manufactures the same assembly in two quantities.
+Consider an assembly that can be manufactured in different quantities using different resources.
 
 ### Low-volume production
 
@@ -66,11 +69,13 @@ Workstation: Station 2
 Tool: Automated Tool Set
 ```
 
-The routing plans use the same part and process plan but select different manufacturing resources for the two production quantities. A planner can also use a different process plan if the high-volume scenario requires a different sequence of operations.
+Both routing plans use the same part and process plan, but select different manufacturing resources for the two production scenarios.
+
+A planner could also associate a different process plan with one of the routing plans when that scenario requires a different sequence of manufacturing operations.
 
 ## Routing plans and localized operations
 
-A process plan provides the source operations. A routing plan can localize those operations for a particular production facility or line.
+A process plan provides the source operations used to manufacture a product. A routing plan can localize those operations for a particular production facility, production line, or manufacturing scenario.
 
 Localization can account for differences such as:
 
@@ -79,29 +84,60 @@ Localization can account for differences such as:
 - Line-specific operation assignments
 - Facility-specific processing requirements
 
-The localized representation remains related to the source process plan so that planners can compare the manufacturing definition with its facility-specific implementation.
+For example:
 
-## Keeping plans synchronized
+```text
+Source process plan
+        |
+        +-- Operation 10
+        |
+        +-- Operation 20
+        |
+        +-- Operation 30
+                |
+                v
+        Routing plan
+                |
+                +-- Plant North
+                +-- Line 1
+                +-- Station 2
+                +-- Automated Tool Set
+```
 
-A routing plan can become out of date when its source process plan is revised independently. Before localizing additional operations, reconcile the routing plan with the current process plan.
+The localized representation remains related to the source process plan, allowing planners to maintain facility-specific information while retaining the relationship to the original manufacturing definition.
 
-Reconciliation updates applicable values from source operations to localized operations. Depending on system configuration, selected operations can be excluded when their localized values must be preserved.
+## Keep routing plans synchronized
 
-## Benefits
+A routing plan can become out of date when its source process plan is revised independently.
 
-Routing plans help manufacturing teams:
+For example:
 
-- Evaluate alternative production scenarios before release
-- Connect product, process, and facility information
-- Select appropriate lines, work centers, and tools
-- Validate manufacturing decisions earlier
-- Maintain facility-specific operation details
-- Compare low-volume and high-volume production approaches
+```text
+Process plan
+Version A
+     |
+     +-- Routing plan created
+     |
+     v
+Process plan revised
+Version B
+     |
+     v
+Routing plan may require reconciliation
+```
+
+Reconcile the routing plan with the current process plan before making additional localization changes when synchronization is required.
+
+Reconciliation updates applicable information from the source operations to their localized representations. Depending on the system configuration, selected localized values can be preserved when they should not be replaced by values from the source process plan.
 
 ## Key considerations
 
-- A routing plan requires a part, process plan, and production facility to represent a complete manufacturing scenario.
-- Multiple routing plans can be associated with the same process plan.
-- Routing plans should remain synchronized with their source process plans.
-- Configuration criteria can affect which operations and structures are displayed.
-- A copied routing plan can provide a starting point for another production scenario, but the copied information should be reviewed before use.
+When working with routing plans:
+
+- Associate the routing plan with the part, process plan, and production facility required for the manufacturing scenario.
+- Use multiple routing plans when the same manufacturing definition must support different facilities, resources, quantities, or production approaches.
+- Keep routing plans synchronized with their source process plans when the source manufacturing definition changes.
+- Consider configuration criteria that can affect which operations and structures are available in a routing plan.
+- Review copied routing-plan information before using it for another production scenario.
+
+Routing plans provide a way to connect product, process, facility, and resource information while allowing manufacturing planners to represent different production scenarios without maintaining completely independent process definitions.
