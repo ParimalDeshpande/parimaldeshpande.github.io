@@ -11,14 +11,13 @@ Pune, Maharashtra, India
 
 [LinkedIn Profile](https://www.linkedin.com/in/parimal-deshpande)
 
-# Resume
+<p class="resume-meta">Last updated: October 2026</p>
 
-<a <p class="resume-meta">Last updated: October 2026</p>
-
-{{ '/assets/docs/ParimalDeshpande_Resume.pdf' | relative_url }}
+<a class="resume-download"
+   href="/assets/docs/ParimalDeshpande_Resume.pdf"
+   download="ParimalDeshpande_Resume.pdf">
   Download resume (PDF)
 </a>
-
 ## Professional summary
 
 Principal Technical Writer with over 15 years of experience creating clear, user-focused documentation for on-premises and SaaS software products. Experienced in end-user and administrator documentation, contextual help, API documentation, microcopy, structured authoring, and technical content for complex product workflows.
