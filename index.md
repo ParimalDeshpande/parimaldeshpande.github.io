@@ -23,7 +23,7 @@ The following samples demonstrate my approach to different types of technical co
 
 ## Support to Allow Outbound HTTPS Calls to Public Endpoints
 
-**SaaS Product | Configuration Documentation**
+<p class="sample-type">SaaS Product · Configuration Documentation</p>
 
 A technical documentation sample that explains how to configure secure outbound connections to external endpoints, with complex configuration information organized into a clear and usable workflow.
 
@@ -31,7 +31,7 @@ A technical documentation sample that explains how to configure secure outbound 
 
 ## Publish Process Plans Based on Part Tags
 
-**Manufacturing Software | Product and Integration Documentation**
+<p class="sample-type">Manufacturing Software · Product and Integration Documentation</p>
 
 A feature documentation sample that explains how part tags affect process plan publishing, including first-time and incremental publishing scenarios and structured output examples.
 
@@ -39,7 +39,7 @@ A feature documentation sample that explains how part tags affect process plan p
 
 ## Create a Routing Plan Using a REST API
 
-**Manufacturing Software | API Documentation**
+<p class="sample-type">Manufacturing Software · API Documentation</p>
 
 A developer-focused sample that explains how to create routing plans through a REST API, including prerequisites, request headers, JSON request bodies, object associations, and verification.
 
@@ -47,7 +47,7 @@ A developer-focused sample that explains how to create routing plans through a R
 
 ## Configure Rework Assignments in a Workflow
 
-**Enterprise Software | Workflow Customization**
+<p class="sample-type">Enterprise Software · Workflow Customization</p>
 
 A customization sample that starts with a workflow problem and explains how to configure rework assignments so that tasks are routed to the appropriate participants.
 
@@ -55,13 +55,13 @@ A customization sample that starts with a workflow problem and explains how to c
 
 ## Understanding Manufacturing Routing Plans
 
-**Manufacturing Software | Conceptual Documentation**
+<p class="sample-type">Manufacturing Software · Conceptual Documentation</p>
 
 A conceptual documentation sample that explains routing plans, their relationship to manufacturing samples/understanding-manufacturing-routing-plans.html
 
 ## Integrating AI Agents into the Software Development Lifecycle
 
-**Software Development | AI and Agentic Workflows**
+<p class="sample-type">Software Development · AI and Agentic Workflows</p>
 
 A conceptual and technical sample that explains how AI agents, reusable skills, development tools, and different AI models can be integrated into the software development lifecycle while maintaining human review and validation.
 
