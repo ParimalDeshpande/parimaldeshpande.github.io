@@ -9,7 +9,7 @@ nav_order: 50
 # Understanding Manufacturing Routing Plans
 <p class="sample-type">Conceptual documentation · Manufacturing planners and application users</p>
 
-<p class="sample-demonstrates"><strong>Demonstrates:</strong> Explaining relationships between complex product concepts, manufacturing scenarios, configuration choices, and their practical use.
+<p class="sample-demonstrates"><strong>Demonstrates:</strong> Explaining relationships between complex product concepts, manufacturing scenarios, configuration choices, and their practical use.</p>
 
 A routing plan defines how a manufacturing process is applied at a specific production facility. It connects three core elements:
 
