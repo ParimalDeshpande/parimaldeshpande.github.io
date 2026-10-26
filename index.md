@@ -4,7 +4,7 @@ portfolio_sample: true
 nav_order: 10
 ---
 
-Technical Writer | Software Documentation
+<p class="portfolio-eyebrow">Technical Writer · Software Documentation</p>
 
 # I make complex software easier to understand, navigate, and use.
 
