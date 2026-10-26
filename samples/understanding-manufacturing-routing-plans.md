@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Understanding Manufacturing Routing Plans
+nav_title: Manufacturing Routing Plans
 portfolio_sample: true
 nav_order: 50
 ---
