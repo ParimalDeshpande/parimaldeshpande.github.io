@@ -314,6 +314,32 @@ a:focus {
   margin-bottom: 0;
 }
 
+/* Resume */
+.resume-meta {
+  margin: -10px 0 16px;
+  color: $portfolio-muted;
+  font-size: 12.6px;
+}
+
+.resume-download {
+  display: inline-block;
+  margin: 0 0 28px;
+  padding: 8px 14px;
+  border: 1px solid $portfolio-link;
+  border-radius: 6px;
+  color: $portfolio-link;
+  font-size: 12.6px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.resume-download:hover,
+.resume-download:focus {
+  color: #ffffff;
+  background: $portfolio-link;
+  text-decoration: none;
+}
+
 /* Footer */
 
 .site-footer {
