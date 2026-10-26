@@ -1,6 +1,7 @@
 ---
 layout: portfolio
-title: Configure Rework Assignments
+title: Configure Rework Assignments in a Workflow
+nav_title: Configure Rework Assignments
 portfolio_sample: true
 nav_order: 40
 ---
