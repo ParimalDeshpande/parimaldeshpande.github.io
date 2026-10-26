@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Publish Process Plans Based on Part Tags
+nav_title: Publish by Part Tags
 portfolio_sample: true
 nav_order: 20
 ---
