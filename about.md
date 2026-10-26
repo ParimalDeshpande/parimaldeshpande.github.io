@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: About
+permalink: /about/
 ---
 
 # About me
