@@ -1,6 +1,7 @@
 ---
 layout: portfolio
-title: Integrating AI Agents in the SDLC
+title: Integrating AI Agents into the Software Development Lifecycle
+nav_title: AI Agents in the SDLC
 portfolio_sample: true
 nav_order: 60
 ---
