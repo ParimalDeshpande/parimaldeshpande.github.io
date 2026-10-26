@@ -9,7 +9,7 @@ permalink: /resume/
 **Principal Technical Writer**  
 Pune, Maharashtra, India
 
-[LinkedIn Profile](https://www.linkedin.com/in/parimal-deshpande
+[LinkedIn Profile](https://www.linkedin.com/in/parimal-deshpande)
 
 # Resume
 
