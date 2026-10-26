@@ -57,7 +57,8 @@ A customization sample that starts with a workflow problem and explains how to c
 
 <p class="sample-type">Manufacturing Software · Conceptual Documentation</p>
 
-A conceptual documentation sample that explains routing plans, their relationship to manufacturing samples/understanding-manufacturing-routing-plans.html
+A conceptual documentation sample that explains routing plans, their relationship to manufacturing routing plans.
+[View sample →](samples/understanding-manufacturing-routing-plans.html)
 
 ## Integrating AI Agents into the Software Development Lifecycle
 
@@ -65,4 +66,4 @@ A conceptual documentation sample that explains routing plans, their relationshi
 
 A conceptual and technical sample that explains how AI agents, reusable skills, development tools, and different AI models can be integrated into the software development lifecycle while maintaining human review and validation.
 
-/samples/integrating-ai-agents-in-sdlc.html
+[View sample →](/samples/integrating-ai-agents-in-sdlc.html)
