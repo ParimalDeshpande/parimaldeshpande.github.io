@@ -67,3 +67,7 @@ A conceptual documentation sample that explains routing plans, their relationshi
 A conceptual and technical sample that explains how AI agents, reusable skills, development tools, and different AI models can be integrated into the software development lifecycle while maintaining human review and validation.
 
 [View sample →](/samples/integrating-ai-agents-in-sdlc.html)
+
+## About these samples
+
+Some samples have been adapted from professional documentation work for portfolio use. Product-specific and proprietary information has been removed or replaced with generic examples while preserving the documentation approach and technical complexity of the original content.
