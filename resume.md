@@ -20,7 +20,7 @@ Pune, Maharashtra, India
 </a>
 ## Professional summary
 
-Principal Technical Writer with over 15 years of experience creating clear, user-focused documentation for on-premises and SaaS software products. Experienced in end-user and administrator documentation, contextual help, API documentation, microcopy, structured authoring, and technical content for complex product workflows.
+Principal Technical Writer with over 15 years of experience creating clear, user-focused documentation for on-premises and SaaS software products. Experienced in translating complex product functionality and workflows into end-user documentation, administrator guidance, contextual help, API documentation, microcopy, and structured content.
 
 I work closely with product, engineering, QA, and other stakeholders to translate complex product functionality into structured, actionable guidance. My experience also includes information architecture, help-center development, localization, analytics, technical reviews, instructional videos, and AI-assisted documentation workflows.
 
