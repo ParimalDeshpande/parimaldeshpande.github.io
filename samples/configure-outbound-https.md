@@ -7,6 +7,7 @@ nav_order: 10
 ---
 
 # Configure Outbound HTTPS Connections to External Services
+<p class="sample-type">Configuration documentation · System administrators</p>
 <p class="sample-demonstrates"><strong>Demonstrates:</strong> Explaining technical prerequisites, security-related configuration, procedural steps, and expected system behavior.</p>
 
 Cloud applications often need to communicate with services that are hosted outside the managed application environment. To support these integrations securely, connection details should be maintained separately from customization code and configured for each deployment environment.
