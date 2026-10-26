@@ -21,9 +21,11 @@
           %}
 
           {% for sample in sample_pages %}
+          {% if sample.title and sample.title != "" %}
             <a href="{{ sample.url | relative_url }}">{{ sample.title }}</a>
+          {% endif %}
           {% endfor %}
-
+          
           <h3>Connect</h3>
 
           <a href="https://www.linkedin.com/in/parimal-deshpande/"
