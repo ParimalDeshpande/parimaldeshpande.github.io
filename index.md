@@ -53,8 +53,8 @@ A customization sample that starts with a workflow problem and explains how to c
 
 [View sample →](/samples/configure-rework-assignments.html)
 
-## Understanding Manufacturing*
+## Understanding Manufacturing
 
 A conceptual documentation sample that explains routing plans, their relationship to manufacturing information, and how they support different production scenarios.
 
-/samples/understanding-manufacturing-routing-plans.html
+[View sample →](/samples/understanding-manufacturing-routing-plans.html)
