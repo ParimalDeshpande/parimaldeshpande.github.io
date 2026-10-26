@@ -51,8 +51,6 @@ Some of the tools I have worked with include:
 
 - Arbortext Editor
 - MadCap Flare
-- Adobe RoboHelp
-- Adobe FrameMaker
 - Camtasia
 - Snagit
 - Visual Studio Code
