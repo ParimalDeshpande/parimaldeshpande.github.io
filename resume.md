@@ -115,3 +115,14 @@ June 2011 – June 2018
 ### Diploma in Computer Software
 **Pronet, Nagpur**  
 2005
+
+
+# Resume
+
+<p class="resume-meta">Last updated: October 2026</p>
+
+<a class="resume-download"
+   href="{{ '/assets/docs/parimal-deshpande-resume.pdf' | relative_url }}"
+   download>
+  Download resume (PDF)
+</a>
