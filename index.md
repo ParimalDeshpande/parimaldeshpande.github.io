@@ -25,6 +25,8 @@ The following samples demonstrate my approach to different types of technical co
 
 Some samples have been adapted from professional documentation work for portfolio use. Product-specific and proprietary information has been removed or replaced with generic examples while preserving the documentation approach and technical complexity of the original content.
 
+AI-assisted tools were used to help generalize selected topics for public presentation and to support the development and refinement of the CSS used for this portfolio site. I reviewed and edited the resulting content and design before publication.
+
 ### Support to Allow Outbound HTTPS Calls to Public Endpoints
 
 <p class="sample-type">SaaS Product · Configuration Documentation</p>
@@ -64,8 +66,10 @@ A customization sample that presents a workflow problem and explains how rework 
 A conceptual documentation sample that explains manufacturing routing plans, their relationships to other manufacturing information, and how they support different production scenarios.
 
 [View sample →](/samples/understanding-manufacturing-routing-plans.html)
-type">Software Development · AI and Agentic Workflows</p>
+
+## Integrating AI Agents into the Software Development Lifecycle
+<p class="sample-type">Software Development · AI and Agentic Workflows</p>
 
 A conceptual and technical sample that explains how AI agents, reusable skills, repository context, development tools, and different AI models can be integrated into the software development lifecycle while maintaining human review and validation.
 
-/samples/integrating-ai-agents-in-sdlc.html
+[View sample →](/samples/integrating-ai-agents-in-sdlc.html)
