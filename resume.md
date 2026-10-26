@@ -63,51 +63,10 @@ June 2011 – June 2018
 
 ## Skills
 
-### Technical writing
-
-- User documentation
-- Administrator documentation
-- API documentation
-- Conceptual documentation
-- Procedural documentation
-- Context-sensitive help
-- Microcopy
-- What's New and release content
-- Information architecture
-- Structured authoring
-- Documentation analysis and review
-
-### Documentation operations
-
-- DITA and XML
-- Content migration
-- Localization
-- Technical reviews
-- Documentation impact analysis
-- Help-center development
-- Documentation analytics
-- Customer-feedback analysis
-
-### AI-assisted workflows
-
-- AI-assisted authoring
-- GitHub Copilot
-- Copilot Studio
-- Visual Studio Code
-- Git-based documentation workflows
-- Agentic documentation and SDLC concepts
-
-### Tools
-
-- Arbortext Editor
-- MadCap Flare
-- Camtasia
-- Snagit
-- Visual Studio Code
-- Git
-- GitHub Copilot
-- Copilot Studio
-- Microsoft Office
+- **Technical writing:** User and administrator documentation, API documentation, conceptual and procedural content, contextual help, microcopy
+- **Content engineering:** Information architecture, DITA/XML, structured authoring, localization, help-center development
+- **AI and development workflows:** AI-assisted authoring, agentic workflows, Git, Visual Studio Code, GitHub Copilot, Copilot Studio
+- **Tools:** Arbortext Editor, MadCap Flare, Camtasia, Snagit
 
 ## Education
 
