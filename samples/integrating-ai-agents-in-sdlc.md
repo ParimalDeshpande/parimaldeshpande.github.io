@@ -33,34 +33,8 @@ The objective is not to replace the existing SDLC. Instead, AI becomes another c
 Different agents can specialize in stages of the SDLC while sharing approved project context.
 
 For example:
+![AI-Augmented Software Development Lifecycle]({{ '/assets/docs/AI-SDLC.png' | relative_url }})
 
-```text
-Feature Request
-      |
-      v
-Requirements Agent
-      |
-      v
-Planning Agent
-      |
-      v
-Development Agent
-      |
-      v
-Testing Agent
-      |
-      v
-Code Review Agent
-      |
-      v
-Documentation Agent
-      |
-      v
-Human Approval
-      |
-      v
-Deployment
-```
 
 This separation gives each agent a focused responsibility and provides clear points at which teams can review and validate the generated output.
 
