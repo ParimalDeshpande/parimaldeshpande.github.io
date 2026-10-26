@@ -19,7 +19,7 @@ I'm a technical writer with 12+ years of experience creating user guides and pro
 
 # Selected writing samples
 
-The following samples demonstrate my approach to different types of technical content, including configuration, product workflows, API documentation, customization, and conceptual documentation.
+The following samples demonstrate my approach to different types of technical content, including configuration, product workflows, API documentation, customization, conceptual documentation, and AI-assisted development.
 
 ## Support to Allow Outbound HTTPS Calls to Public Endpoints
 
@@ -35,7 +35,7 @@ A technical documentation sample that explains how to configure secure outbound 
 
 A feature documentation sample that explains how part tags affect process plan publishing, including first-time and incremental publishing scenarios and structured output examples.
 
-[View sample →](/samples/PublishProcessPlansBasedonPartTags.html)
+[View sample →](/samples/publish-process-plans-based-on-part-tags.html)
 
 ## Create a Routing Plan Using a REST API
 
@@ -43,7 +43,7 @@ A feature documentation sample that explains how part tags affect process plan p
 
 A developer-focused sample that explains how to create routing plans through a REST API, including prerequisites, request headers, JSON request bodies, object associations, and verification.
 
-[View sample →](/samples/CreateRoutingPlanUsingRESTAPI.html)
+[View sample →](/samples/create-routing-plan-rest-api.html)
 
 ## Configure Rework Assignments in a Workflow
 
@@ -51,17 +51,18 @@ A developer-focused sample that explains how to create routing plans through a R
 
 A customization sample that starts with a workflow problem and explains how to configure rework assignments so that tasks are routed to the appropriate participants.
 
-[View sample →](/samples/Configure%20ReworkAssignmentsWorkflow.html)
+[View sample →](/samples/configure-rework-assignments.html)
 
-## Understanding Manufacturing
+## Understanding Manufacturing Routing Plans
 
-A conceptual documentation sample that explains routing plans, their relationship to manufacturing information, and how they support different production scenarios.
+**Manufacturing Software | Conceptual Documentation**
 
-[View sample →](/samples/Understanding%20ManufacturingRoutingPlans.html)
+A conceptual documentation sample that explains routing plans, their relationship to manufacturing samples/understanding-manufacturing-routing-plans.html
 
 ## Integrating AI Agents into the Software Development Lifecycle
 
-A conceptual documentation sample that explains integrating AI agents into the Software Development Lifecycle (SDLC).
+**Software Development | AI and Agentic Workflows**
 
-[View sample →](/samples/IntegratingAIAgentsinSDLC.html)
+A conceptual and technical sample that explains how AI agents, reusable skills, development tools, and different AI models can be integrated into the software development lifecycle while maintaining human review and validation.
 
+/samples/integrating-ai-agents-in-sdlc.html
