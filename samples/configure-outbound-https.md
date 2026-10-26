@@ -7,6 +7,7 @@ nav_order: 10
 ---
 
 # Configure Outbound HTTPS Connections to External Services
+
 <p class="sample-type">Configuration documentation · System administrators</p>
 
 <p class="sample-demonstrates"><strong>Demonstrates:</strong> Explaining technical prerequisites, security-related configuration, procedural steps, and expected system behavior.</p>
