@@ -37,11 +37,11 @@ I have also mentored writers and interns on product fundamentals, documentation 
 
 ## Documentation and AI
 
-I'm particularly interested in how AI can improve technical-writing and software-development workflows without compromising technical accuracy or human review.
+I am particularly interested in how AI can improve technical-writing and software-development workflows without compromising technical accuracy or human review.
 
 My work in this area has included experimenting with AI-assisted authoring, API-description generation, Git-based workflows, Visual Studio Code, GitHub Copilot, and automation for creating first drafts of technical content.
 
-I'm also exploring how agents, reusable skills, repository context, and AI-assisted review can support activities across the software development lifecycle, including requirements analysis, development, testing, documentation, and maintenance.
+I am also exploring how agents, reusable skills, repository context, and AI-assisted review can support activities across the software development lifecycle, including requirements analysis, development, testing, documentation, and maintenance.
 
 You can see an example of this approach in **Integrating AI Agents into the Software Development Lifecycle** under Writing samples.
 
