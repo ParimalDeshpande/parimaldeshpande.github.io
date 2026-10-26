@@ -150,6 +150,11 @@ a:focus {
   outline: 2px solid $portfolio-link;
   outline-offset: 2px;
 }
+.sidebar nav a.active {
+  color: $portfolio-heading;
+  background: #f3f4f6;
+  font-weight: 600;
+}
 
 /* Main content */
 
