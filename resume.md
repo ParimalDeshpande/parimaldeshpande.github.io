@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Resume
+permalink: /resume/
 ---
 
 # Parimal Deshpande
