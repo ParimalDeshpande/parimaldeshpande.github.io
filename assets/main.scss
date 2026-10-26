@@ -320,6 +320,28 @@ a:focus {
   border-top: 1px solid $portfolio-border;
 }
 
+.footer-content {
+  color: $portfolio-muted;
+  font-size: 12.6px;
+  line-height: 1.6;
+}
+
+.footer-content strong {
+  display: block;
+  color: $portfolio-heading;
+  font-weight: 600;
+}
+
+.footer-content span {
+  display: block;
+  margin-top: 2px;
+}
+
+.footer-content p {
+  max-width: 700px;
+  margin: 10px 0 0;
+}
+
 /* Medium screens */
 
 @media screen and (max-width: 1000px) {
