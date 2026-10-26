@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Create a Routing Plan Using a REST API
+nav_title: Using a REST API
 portfolio_sample: true
 nav_order: 30
 ---
