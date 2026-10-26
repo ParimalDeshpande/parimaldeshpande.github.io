@@ -6,7 +6,7 @@ layout: portfolio
 
 # I make complex software easier to understand, navigate, and use.
 
-I'm a Principal Technical Writer with 15+ years of experience creating user guides and product documentation for software products. I focus on turning product functionality and complex workflows into clear, structured, task-oriented documentation that helps users accomplish their goals.
+I am a Principal Technical Writer with 15+ years of experience creating user guides and product documentation for software products. I focus on turning product functionality and complex workflows into clear, structured, task-oriented documentation that helps users accomplish their goals.
 
 I work across the documentation lifecycle, from understanding complex product behavior and designing content structures to creating, reviewing, and improving user-facing technical documentation. I collaborate with product, engineering, and QA teams to turn technical complexity into content that helps users understand features and complete tasks successfully.
 
